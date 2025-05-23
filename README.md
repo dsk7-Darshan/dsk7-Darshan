@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**dsk7-Darshan/dsk7-Darshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Darshan!
 
-Here are some ideas to get you started:
+💻 Beginner programmer | Learning Python & Git  
+🎓 Following Bro Code videos, MIT 6.0001 & 6.0002 courses  
+🛠️ Tools: PyCharm, GitHub, Git  
+🚀 On a mission to master software development step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Python fundamentals & projects
+- Version control with Git & GitHub
+- Computer Science basics from MIT & Harvard open courses
+
+## 📚 Next Steps
+- Data Structures & Algorithms
+- Web development basics (HTML, CSS, JavaScript)
+- Open source contributions
+
+📫 Reach me on GitHub: [dsk7-Darshan](https://github.com/dsk7-Darshan)
