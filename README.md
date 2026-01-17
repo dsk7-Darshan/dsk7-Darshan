@@ -1,5 +1,5 @@
 # Hi there 👋  
-I'm **Darshan** — a beginner programmer on a mission to master software development step by step.
+I'm **DSK** — a beginner programmer on a mission to master software development step by step.
 
 ---
 
